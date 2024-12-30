@@ -164,7 +164,5 @@ Admin Panel → Agents → Roles.
 </p>
 <br />
 <br />
-<p>
+<h3 align="center"> Next steps are here: https://github.com/mylesmaxie0/ticket-simulation</h3>
 
-This is a crucial skill for any help desk specialist, as they serve as the first point of contact between a company and its customers, addressing issues related to the products or services provided.
-</p>
